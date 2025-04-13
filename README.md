@@ -78,7 +78,7 @@ properly over Matter.
 
 A list of currently supported devices can be found in the [DEVICES.md](https://github.com/make-all/tuya-local/blob/main/DEVICES.md) file.
 
-Documentation on building a device configuration file is in [/custom_components/tuya_local/devices/README.md](https://github.com/make-all/tuya-local/blob/main/custom_components/tuya_local/devices/README.md)
+Documentation on building a device configuration file is in [/custom_components/tuya_local/devices/README.md](https://github.com/savage274/tuya-local/blob/main/custom_components/tuya_local/devices/README.md)
 
 If your device is not listed, you can find the information required to add a configuration for it in the following locations:
 
